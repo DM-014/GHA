@@ -1,1 +1,1 @@
-print "Hello World from py script"
+print ("Hello World from py script")
